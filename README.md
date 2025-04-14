@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @kmid5280.
-- 👀 I’m interested in web development, foreign languages, drums, fitness, and travel.
-- 🌱 I’m currently learning JavaScript and React.
-- 💞️ I’m looking to collaborate on volunteer web development projects.
-
-<!---
-kmid5280/kmid5280 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Front-End Engineer who has worked with a variety of web development technologies including JavaScript, React, MongoDB, Node.js, Git, HTML, and CSS. I spent 2.5 years as a Web Developer and Migration Lead for a major financial services company. During that time, I led a team to transfer content from a deprecated platform to a new one using SharePoint, as well as served as a point person for an offshore team. Additionally, I have made hundreds of commits to various community web development projects. Among them are [Comrad](https://github.com/codefordenver/Comrad/commits?author=kmid5280) built via Code for Denver (React, JavaScript, Redux, MongoDB/Mongoose, Node.js, CSS), and [VoteWise](https://codeforphilly.org/projects/votewisenet), built via Code for Philly (React, JavaScript, Next.js, MongoDB, GeoJSON).
